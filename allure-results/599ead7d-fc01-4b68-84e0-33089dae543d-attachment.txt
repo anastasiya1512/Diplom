@@ -1,0 +1,1 @@
+Response URL: https://api.kinopoisk.dev/v1.4/movie?genres.name=%D0%B1%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA&limit=10
